@@ -11,6 +11,22 @@ certs:
   claude_code_101: wghsvu3buyu2
   agent_skills_intro: khf7i86cdyti
   subagents_intro: jdg3vz4imaam
+  mcp_intro: yk3vfpi5n37i
+  claude_code_in_action: bxh5ajf78k9a
+  ai_fluency: 2khj2bbwq5nq
+  claude_platform_101: 3wetb5hu6b3z
+  claude_cowork: 2cx97495i2r6
+  mcp_advanced: 3nrwfr6k7q7t
+  building_claude_api: ppn3t6na6apq
+  ai_fluency_for_students: jf6gpgi46f97
+  ai_fluency_for_educators: jy4p5ctd7m8r
+  ai_fluency_for_builders: 7d7727efak87
+  teaching_ai_fluency_framework: 94g4oq7cwfwi
+  ai_fluency_for_nonprofits: ynnai7sjm37o
+  ai_fluency_for_creative_work: suz45vtjg58j
+  ai_fluency_for_small_businesses: ac6bjjm63bqa
+
+  
 ---
 
 Hi! I'm learning to vibe code with AI. My goal is to build and ship real projects, create things that make me happy, and contribute to others.
